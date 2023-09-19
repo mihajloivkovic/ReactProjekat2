@@ -1,0 +1,30 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 100%;
+}
+
+.pocetna{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.text{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    height: 100%;
+}
+h2{
+   color: #0A2647;
+}
+.photo{
+    width: 50%;
+    height:100%;
+  }
+  
+
